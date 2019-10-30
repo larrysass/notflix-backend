@@ -1,24 +1,11 @@
-# README
+#Notflix (A Netflix Clone)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the repo for the backend of my Netflix Clone. 
 
-Things you may want to cover:
+[Click here for the deployed demo](http://notflix.surge.sh/)
 
-* Ruby version
 
-* System dependencies
+This project is a clone of Netflix's frontend that also persists user data for login and keeping track of favorite movies/tv shows. [Click here for the frontend Repo](https://github.com/larrysass/notflix-frontend)
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The backend is built in Rails and uses postgresql and ActiveRecord. Bcrypt and jwt are used for authentication/authorization. 
