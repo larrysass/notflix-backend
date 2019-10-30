@@ -1,4 +1,4 @@
-#Notflix (A Netflix Clone)
+# Notflix (A Netflix Clone)
 
 This is the repo for the backend of my Netflix Clone. 
 
